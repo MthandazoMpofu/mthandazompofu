@@ -4,6 +4,8 @@
 
 Biotechnology graduate with research experience in antimicrobial resistance, environmental health, molecular biology, scientific literature review, data interpretation and scientific communication.
 
+[📄 View / Download My CV](./SIMBARASHE%20M.%20MPOFU%20CV.pdf)
+
 # About
 
 A scientist moving from the laboratory toward broader research.
