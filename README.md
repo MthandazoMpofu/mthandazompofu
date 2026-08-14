@@ -87,7 +87,7 @@ Scientific writing · Technical reporting · Research documentation · Clear sci
 
 ## Phone: +263786649358
 ## Email: mthandazompofu97@email.com
-## LinkedIn: [www.linkedin.com/in/simbarashe-mpofu-2464432b2]
+## LinkedIn: www.linkedin.com/in/simbarashe-mpofu-2464432b2
 
 
 <!--
