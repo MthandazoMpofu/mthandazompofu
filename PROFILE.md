@@ -16,7 +16,7 @@ Antifungal resistance in environmental Candida albicans
 BSc Honours Biotechnology research project · National University of Science and Technology · 2024
 
 # *A Molecular Survey of Antifungal Susceptibility Patterns and a Selected Virulence Factor of Candida albicans from Mzingwane and Mtshabezi Dams*
-[🔬 View Project: Antifungal Resistance in Candida albicans](./ANTIFUNGAL%20RESISTANCE%20IN%20CANDIDA%20ALBICANS)
+[🔬 View Project: Antifungal Resistance in Candida albicans](https://github.com/MthandazoMpofu/mthandazompofu/blob/main/ANTIFUNGAL%20RESISTANCE%20IN%20CANDIDA%20ALBICANS.pdf)
 
 This four-month investigation examined antifungal susceptibility patterns and molecular markers associated with antifungal resistance and virulence in environmental *Candida albicans* isolates.
 
