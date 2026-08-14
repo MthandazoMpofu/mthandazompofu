@@ -3,7 +3,7 @@
 # Profile
 
 Biotechnology graduate with research experience in antimicrobial resistance, environmental health, molecular biology, scientific literature review, data interpretation and scientific communication.
-[📄 View / Download My CV](PASTE_YOUR_COPIED_LINK_HERE)
+[📄 View / Download My CV](https://github.com/MthandazoMpofu/mthandazompofu/blob/main/SIMBARASHE%20M.%20MPOFU%20CV.pdf)
 
 # About
 
